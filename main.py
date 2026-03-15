@@ -42,7 +42,7 @@ while True:
 
 # Итоги
 print("-" * 30)
-print(f"Игра окончена! 🏁")
+print(f"Игра окончена!")
 print(f"Попыток: {attempts}")
 print(f"Правильных ответов: {score}")
 if attempts > 0:
