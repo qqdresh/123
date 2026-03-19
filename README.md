@@ -25,3 +25,6 @@
 • Программа должна давать задачи на умножение/деление чисел ( пользователь выбирает сам )
 
 • Проверять ответ
+
+# Use Case диаграмма
+<img width="804" height="788" alt="image" src="https://github.com/user-attachments/assets/bfe46c65-980f-4128-9cbc-be0d47b348ef" />
