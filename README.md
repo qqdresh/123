@@ -28,3 +28,6 @@
 
 # Use Case диаграмма
 <img width="804" height="788" alt="image" src="https://github.com/user-attachments/assets/bfe46c65-980f-4128-9cbc-be0d47b348ef" />
+
+# Блок схема приложения
+<img width="599" height="730" alt="image" src="https://github.com/user-attachments/assets/2517eda0-a214-4482-a580-2c8b174f45f2" />
