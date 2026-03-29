@@ -150,6 +150,4 @@ class MathApp:
         timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         self.log_text.insert(tk.END, f"[{timestamp}] {self.username}: {new_entry}\n")
         self.log_text.see(tk.END)
-
-if __name__ == "__main__":
     app = MathApp()
